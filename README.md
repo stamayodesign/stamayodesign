@@ -2,7 +2,7 @@
 
 I'm a software developer/electrical engineer who is passionate about code. Some of the languages I enjoy working in include C#, javascript, and Kotlin.
 
-💬 You can reach me on <a href="https://www.linkedin.com/in/stevetamayo/" target="_blank" rel="noopener noreferrer">LinkedIn!</a>
+💬 You can reach me on <a href="https://www.linkedin.com/in/stevetamayo/" target="_blank">LinkedIn!</a>
 
 <!--
 **stamayodesign/stamayodesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
