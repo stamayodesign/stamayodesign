@@ -11,7 +11,7 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
 <dt>🎲 <a href="https://github.com/stamayodesign/dndCharApp">Dice Roller Kotlin Application </a> | Created April 2022 - May 2022 </dt>
 <dd>- TTRPG Dice Roller made with Android Studio</dd>
 </dl>
-<br />  
+
 ## 🕰 Current Projects
 <dl>
   <dt>(Coming Soon!) Digimon TCG Pack Simulator HTML/JS Project | Created June 2023 - Now</dt>
