@@ -17,6 +17,12 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
   <dt>(Coming Soon!) Digimon TCG Pack Simulator HTML/JS Project | Created June 2023 - Now</dt>
   <dd>- Digimon Booster Pack Opening Simulator made with VS Code </dd>
 </dl>
+<dl>
+  <dt>📊 Google Data Analytics Professional Certificate | Started May 2023 - Expected Completion by September 2023</dt>
+  <dd>- Current Progress 5 out of 8 Courses </dd>
+</dl>
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stamayodesign&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
