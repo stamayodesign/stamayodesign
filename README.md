@@ -14,7 +14,7 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
 
 ## 📈 Case Study
 <dl>
-  <dt>🚵🏽‍♀️(Coming Soon!)  Case Study 1 - Cyclistic bike-share analysis </dt>
+  <dt>🚵🏽‍♀️<a href="https://htmlpreview.github.io/?https://github.com/stamayodesign/Cyclistic-Case-Study-1/blob/master/report_cyclisticCaseStudy_v00-09022023.html">Case Study 1 - Cyclistic bike-share analysis</a> </dt>
   <dd>- Case Study for Google Data Analytics Capstone Project using Excel and R Studio</dd>
 </dl>
 
