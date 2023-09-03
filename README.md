@@ -24,8 +24,8 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
   <dd>- Digimon Booster Pack Opening Simulator made with VS Code </dd>
 </dl>
 <dl>
-  <dt>📊 Google Data Analytics Professional Certificate | Started May 2023 - Expected Completion by September 2023</dt>
-  <dd>- Current Progress 7 out of 8 Courses </dd>
+  <dt>📊 Google Data Analytics Professional Certificate | May 2023 - September 2023</dt>
+  <dd>- Completed! </dd>
 </dl>
 
 
