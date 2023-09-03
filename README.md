@@ -12,6 +12,12 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
 <dd>- TTRPG Dice Roller made with Android Studio</dd>
 </dl>
 
+## 📈 Case Study
+<dl>
+  <dt>🚵🏽‍♀️(Coming Soon!)  Case Study 1 - Cyclistic bike-share analysis </dt>
+  <dd>- Case Study for Google Data Analytics Capstone Project using Excel and R Studio</dd>
+</dl>
+
 ## 🕰 Current Projects
 <dl>
   <dt>(Coming Soon!) Digimon TCG Pack Simulator HTML/JS Project | Created June 2023 - Now</dt>
