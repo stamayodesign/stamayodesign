@@ -20,12 +20,18 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
 
 ## 🕰 Current Projects
 <dl>
+  <dt>🎡 <a href="https://github.com/stamayodesign/I-d-like-to-solve-the-puzzle"> I'd like to solve the puzzle</a> | Created September 2023 - Now </dt>
+  <dd>- Wheel-of-Fortune-style puzzle solver using R and Data Analysis</dd>
+</dl>
+<dl>
   <dt>(Coming Soon!) Digimon TCG Pack Simulator HTML/JS Project | Created June 2023 - Now</dt>
   <dd>- Digimon Booster Pack Opening Simulator made with VS Code </dd>
 </dl>
+
+## Certificates
 <dl>
   <dt>📊 Google Data Analytics Professional Certificate | May 2023 - September 2023</dt>
-  <dd>- Completed! </dd>
+  <dd>- Coursera </dd>
 </dl>
 
 
