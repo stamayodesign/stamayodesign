@@ -6,6 +6,12 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
 💬 You can reach me on <a href="https://www.linkedin.com/in/stevetamayo/">LinkedIn!</a>
 ## 📅 Personal Projects
 <dl>
+  <dt>🎡 <a href="https://github.com/stamayodesign/I-d-like-to-solve-the-puzzle"> I'd like to solve the puzzle</a> | Created September 2023</dt>
+  <dd>- Wheel-of-Fortune-style puzzle solver using R and Data Analysis</dd>
+</dl>
+<dl>
+  <dt>🎴 Digimon TCG Pack Simulator HTML/JS Project | Created June 2023</dt>
+  <dd>- Digimon Booster Pack Opening Simulator made with VS Code </dd>
 <dt>💧 <a href="https://github.com/stamayodesign/WaterSorterPuzzleSolver">Water Sorter Puzzle Solver C# Application </a> | Created August 2022 - September 2022</dt>
   <dd>- Water Sorter Puzzle Solver made with Visual Studio</dd>
 <dt>🎲 <a href="https://github.com/stamayodesign/dndCharApp">Dice Roller Kotlin Application </a> | Created April 2022 - May 2022 </dt>
@@ -18,15 +24,12 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
   <dd>- Case Study for Google Data Analytics Capstone Project using Excel and R Studio</dd>
 </dl>
 
-## 🕰 Previous Projects
+## 🕰 Current Projects
 <dl>
-  <dt>🎡 <a href="https://github.com/stamayodesign/I-d-like-to-solve-the-puzzle"> I'd like to solve the puzzle</a> | Created September 2023</dt>
-  <dd>- Wheel-of-Fortune-style puzzle solver using R and Data Analysis</dd>
+  <dt>Blog Project | Started May 2025</dt>
+  <dd>- Blog page for an art project.</dd>
 </dl>
-<dl>
-  <dt>🎴 Digimon TCG Pack Simulator HTML/JS Project | Created June 2023</dt>
-  <dd>- Digimon Booster Pack Opening Simulator made with VS Code </dd>
-</dl>
+
 
 ## Certificates
 <dl>
