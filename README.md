@@ -18,13 +18,13 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
   <dd>- Case Study for Google Data Analytics Capstone Project using Excel and R Studio</dd>
 </dl>
 
-## 🕰 Current Projects
+## 🕰 Previous Projects
 <dl>
-  <dt>🎡 <a href="https://github.com/stamayodesign/I-d-like-to-solve-the-puzzle"> I'd like to solve the puzzle</a> | Created September 2023 - Now </dt>
+  <dt>🎡 <a href="https://github.com/stamayodesign/I-d-like-to-solve-the-puzzle"> I'd like to solve the puzzle</a> | Created September 2023</dt>
   <dd>- Wheel-of-Fortune-style puzzle solver using R and Data Analysis</dd>
 </dl>
 <dl>
-  <dt>(Coming Soon!) Digimon TCG Pack Simulator HTML/JS Project | Created June 2023 - Now</dt>
+  <dt>🎴 Digimon TCG Pack Simulator HTML/JS Project | Created June 2023</dt>
   <dd>- Digimon Booster Pack Opening Simulator made with VS Code </dd>
 </dl>
 
