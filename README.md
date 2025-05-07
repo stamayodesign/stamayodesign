@@ -4,6 +4,13 @@
 I'm a software developer/electrical engineer who is passionate about code. Some of the languages I enjoy working in include C#, javascript, and Kotlin.
 
 💬 You can reach me on <a href="https://www.linkedin.com/in/stevetamayo/">LinkedIn!</a>
+
+## 🕰 Current Projects
+<dl>
+  <dt>✏️ <a href="https://stamayodesign.github.io/scryfall-random-sketch-commander/">Scryfall Random* Sketch Commander Blog</a> | Started May 2025</dt>
+  <dd>- Blog page for an art project that I started February 2025.</dd>
+</dl>
+
 ## 📅 Personal Projects
 <dl>
   <dt>🎡 <a href="https://github.com/stamayodesign/I-d-like-to-solve-the-puzzle"> I'd like to solve the puzzle</a> | Created September 2023</dt>
@@ -20,14 +27,8 @@ I'm a software developer/electrical engineer who is passionate about code. Some 
 
 ## 📈 Case Study
 <dl>
-  <dt>🚵🏽‍♀️<a href="https://htmlpreview.github.io/?https://github.com/stamayodesign/Cyclistic-Case-Study-1/blob/master/report_cyclisticCaseStudy_v00-09022023.html">Case Study 1 - Cyclistic bike-share analysis</a> </dt>
+  <dt>🚵🏽‍♀️ <a href="https://htmlpreview.github.io/?https://github.com/stamayodesign/Cyclistic-Case-Study-1/blob/master/report_cyclisticCaseStudy_v00-09022023.html">Case Study 1 - Cyclistic bike-share analysis</a> </dt>
   <dd>- Case Study for Google Data Analytics Capstone Project using Excel and R Studio</dd>
-</dl>
-
-## 🕰 Current Projects
-<dl>
-  <dt>Blog Project | Started May 2025</dt>
-  <dd>- Blog page for an art project.</dd>
 </dl>
 
 
